@@ -1,2 +1,2 @@
-# Web-Developer-Portfolio-1
-My Resume/CV
+# Augustine's Web-Developer-Portfolio
+My Resume/CV Designed for web viewing
